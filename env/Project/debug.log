@@ -1,0 +1,21 @@
+[0904/140917.458:ERROR:process_reader_win.cc(151)] SuspendThread: Ingen tilgang. (0x5)
+[0904/140917.467:ERROR:process_reader_win.cc(151)] SuspendThread: Ingen tilgang. (0x5)
+[0904/140917.467:ERROR:process_reader_win.cc(151)] SuspendThread: Ingen tilgang. (0x5)
+[0904/140917.467:ERROR:process_reader_win.cc(151)] SuspendThread: Ingen tilgang. (0x5)
+[0904/140917.467:ERROR:process_reader_win.cc(151)] SuspendThread: Ingen tilgang. (0x5)
+[0904/140917.469:ERROR:process_reader_win.cc(151)] SuspendThread: Ingen tilgang. (0x5)
+[0904/140917.469:ERROR:process_reader_win.cc(151)] SuspendThread: Ingen tilgang. (0x5)
+[0904/140917.469:ERROR:process_reader_win.cc(123)] NtOpenThread: {Ingen tilgang.} En prosess har bedt om tilgang til et objekt, men slik tilgang er ikke innvilget. (0xc0000022)
+[0904/140917.474:ERROR:exception_snapshot_win.cc(98)] thread ID 3328 not found in process
+[0904/140917.483:ERROR:process_reader_win.cc(123)] NtOpenThread: {Ingen tilgang.} En prosess har bedt om tilgang til et objekt, men slik tilgang er ikke innvilget. (0xc0000022)
+[0904/140917.485:ERROR:exception_snapshot_win.cc(98)] thread ID 19100 not found in process
+[0904/144948.041:ERROR:process_reader_win.cc(151)] SuspendThread: Ingen tilgang. (0x5)
+[0904/144948.043:ERROR:process_reader_win.cc(123)] NtOpenThread: {Ingen tilgang.} En prosess har bedt om tilgang til et objekt, men slik tilgang er ikke innvilget. (0xc0000022)
+[0904/144948.043:ERROR:exception_snapshot_win.cc(98)] thread ID 19860 not found in process
+[0905/095239.603:ERROR:process_reader_win.cc(123)] NtOpenThread: {Ingen tilgang.} En prosess har bedt om tilgang til et objekt, men slik tilgang er ikke innvilget. (0xc0000022)
+[0905/095239.604:ERROR:exception_snapshot_win.cc(98)] thread ID 3384 not found in process
+[0905/121043.686:ERROR:process_reader_win.cc(151)] SuspendThread: Ingen tilgang. (0x5)
+[0905/121043.687:ERROR:process_reader_win.cc(151)] SuspendThread: Ingen tilgang. (0x5)
+[0905/121043.687:ERROR:process_reader_win.cc(151)] SuspendThread: Ingen tilgang. (0x5)
+[0905/121043.687:ERROR:process_reader_win.cc(123)] NtOpenThread: {Ingen tilgang.} En prosess har bedt om tilgang til et objekt, men slik tilgang er ikke innvilget. (0xc0000022)
+[0905/121043.688:ERROR:exception_snapshot_win.cc(98)] thread ID 5568 not found in process
